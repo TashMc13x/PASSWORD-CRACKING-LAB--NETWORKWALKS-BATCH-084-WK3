@@ -91,7 +91,7 @@ Based on the findings from this lab, standard password protection on PDF documen
 ## 3️⃣ Text file copied and pasted into Networkwalks password cracker; password generated after multiple combinations tried.
    ![](nw-pw-cracker.png)
 
-    [![Networkwalks Password Cracker Results](nw-results.png)](nw-results.png)
+   ![Networkwalks Password Cracker Results](./nw-results.png)
 
 ## 4️⃣Password cracking successful.
    ![](nw-cap-flag.png)
