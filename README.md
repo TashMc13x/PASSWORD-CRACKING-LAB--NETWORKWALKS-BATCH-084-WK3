@@ -98,9 +98,14 @@ Based on the findings from this lab, standard password protection on PDF documen
 ----------------------------------------------------------------------------------------------------------------------------------
 
 ## 6. Author & Program Information
+
 Pentester: Tashayna McIntosh
+
 Role: Cybersecurity Intern
+
 Batch: B084 - Networkwalks
+
 Program: Cybersecurity & Ethical Hacking Internship
+
 LinkedIn: www.linkedin.com/in/tashayna-mcintosh-003661266 
 
